@@ -7,7 +7,7 @@ in other languages.
 
 ```clojure
 ; convert Unicode to Zawgyi
-(uni2zg "မင ္ဂလာပ ")
+(uni2zg "မင်္ဂလာပါ")
 
 ; convert Zawgyi to Unicode
 (zg2uni "မဂၤလာပါ")
