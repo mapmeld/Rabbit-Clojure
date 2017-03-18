@@ -1,6 +1,6 @@
 # Rabbit-Clojure
 
-A Unicode <-> Zawgyi converter for Clojure, based on other Rabbit Converter code
+A Unicode <-> Zawgyi converter for Burmese text written in Clojure, based on other Rabbit Converter code
 in other languages.
 
 ## Usage
